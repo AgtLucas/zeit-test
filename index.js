@@ -4,4 +4,4 @@ app.get('/', (req, res) => {
   res.send('C\'est la vie.')
 })
 
-app.listen()
+app.listen(3000)
