@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/AgtLucas/zeit-test/issues"
   },
-  "homepage": "https://github.com/AgtLucas/zeit-test#readme"
+  "homepage": "https://github.com/AgtLucas/zeit-test#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
 }
